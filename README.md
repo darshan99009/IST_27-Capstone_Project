@@ -64,4 +64,4 @@ Included in this repo as `CMAPSSData.zip`
 
 **Guide:** Dr. Afroz Pasha  
 **Institution:** Presidency University, Bengaluru  
-**Degree:** B.Tech Information Science & Technology — April 2026
+
